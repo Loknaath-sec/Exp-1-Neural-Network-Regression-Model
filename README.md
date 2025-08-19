@@ -1,4 +1,4 @@
-# Developing a Neural Network Regression Model
+# EXP-1: Developing a Neural Network Regression Model
 
 ## AIM
 
